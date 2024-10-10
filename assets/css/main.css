@@ -1,8 +1,8 @@
 /*
 Theme Name: Bookle
-Author: Gramentheme
+Author: Decimal Technologies
 Author URI: https://themeforest.net/user/gramentheme
-Description: Bookle - Book Store WooCommerce Html Template 
+Description: Bookle is a dynamic online bookstore offering a curated selection of physical and digital books to satisfy every reader’s literary cravings.
 Version: 1.0.0
 */
 /*  CSS Index Here  
@@ -3890,6 +3890,8 @@ span {
 .hero-1 {
   position: relative;
   background-color: var(--bg);
+  padding-right: 150px;
+  padding-left: 150px;
 }
 .hero-1 .book-shape,
 .hero-1 .frame-shape1,
